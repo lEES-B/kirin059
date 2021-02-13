@@ -8,3 +8,4 @@
 📚 Technology Stack
 
 <img src="https://img.shields.io/badge/HTML-lightgrey" />
+<img src="https://img.shields.io/badge/CSS-blueviolet" />
