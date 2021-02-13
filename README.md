@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=### Hi there, I'm Saebom 👋&fontSize=90)
+
 ### Hi there, I'm Saebom 👋
 
 🚀 **FrontEnd Developer in South Korea**
