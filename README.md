@@ -2,4 +2,4 @@
 
 🚀 **FrontEnd Developer in South Korea**
 
-<a href="https://velog.io/@kirin" ><img src="blog.png"/></a>
+<a href="https://velog.io/@kirin" ><img src="blog.PNG"/></a>
