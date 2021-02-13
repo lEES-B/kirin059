@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### Hi there, I'm Saebom 👋
 
 🚀 **FrontEnd Developer in South Korea**
@@ -7,4 +8,6 @@
 
 📚 Technology Stack
 
-**<img src="https://img.shields.io/badge/HTML-important" /> <img src="https://img.shields.io/badge/CSS-blueviolet" /> <img src="https://img.shields.io/badge/JavaScript-yellow" /> <img src="https://img.shields.io/badge/React-9cf" />**
+**<img src="https://img.shields.io/badge/HTML-important" /> <img src="https://img.shields.io/badge/CSS-blueviolet" /> <img src="https://img.shields.io/badge/JavaScript-yellow" /> <img src="https://img.shields.io/badge/React-9cf" />
+
+    
