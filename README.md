@@ -1,6 +1,10 @@
 
 ### Hi there, I'm Saebom 👋
 
+I think I have a positive attitude toward everything ❣
+
+And I always love challenging new things and easily adjust myself to new environments.
+
 ---
 
 🚀 **FrontEnd Developer in South Korea**
